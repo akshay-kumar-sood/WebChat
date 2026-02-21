@@ -250,7 +250,7 @@ export default function App() {
                                             <div className="break-words whitespace-pre-wrap">{m.text}</div>
                                         )}
                                         {m.type === 'image' && (
-                                            <img src={m.media} alt="Shared" className="rounded-lg max-w-full h-auto cursor-pointer" onClick={() => window.open(m.media)} />
+                                            <img src={m.media} alt="Shared" className="rounded-lg max-w-full h-auto cursor-pointer"  />
                                         )}
                                         {m.type === 'audio' && (
                                             <audio controls src={m.media} className="max-w-full" />
