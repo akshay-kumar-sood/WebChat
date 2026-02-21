@@ -3,7 +3,7 @@
 WebChat is a full-stack realtime group chat application built using **React (Vite), Node.js, Express, and Socket.IO**.  
 Users can join a shared chat room, send messages, share images/audio, and see live typing indicators in real-time.
 
-🔗 Live Demo: https://your-frontend-url.onrender.com  
+🔗 Live Demo:  https://akshaytalk.onrender.com/
 
 ---
 
